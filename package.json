@@ -1,5 +1,5 @@
 {
-  "name": "web_project",
+  "name": "r0website_screen",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -134,5 +134,8 @@
     "presets": [
       "react-app"
     ]
+  },
+  "devDependencies": {
+    "react-router": "^6.4.0"
   }
 }
